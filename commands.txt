@@ -1,6 +1,6 @@
 
-git config --list
+git config --list [list user detail]
 
-git config --global user.name "username"
+git config --global user.name "username" [adding user name]
 
-git config --global user.email "email"
+git config --global user.email "emailid" [adding user email]
